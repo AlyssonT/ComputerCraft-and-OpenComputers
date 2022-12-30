@@ -1,3 +1,6 @@
+# CCraft controlando reatores
+Controlando reator para nao gastar mais do que precisa
+
 # PneumaticCraf-Control-OpenComputers
 Controlando os compressores do PneumaticCraft usando Lua a partir do OpenComputers
 
